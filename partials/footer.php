@@ -105,10 +105,10 @@
                     <li><a href="/index.php">Home</a></li>
                     <li><a href="/about-us.php">About Us</a></li>
 
-                    <li><a href="/contact-us">Contact</a></li>
+                    <li><a href="/contact-us.php">Contact</a></li>
                     <li><a href="/printer-setup.php">Printer Setup</a></li>
                     <li><a href="/privacy-policy.php">Privacy policy</a></li>
-                    <li><a href="/terms-and-condition">Terms and Condition</a></li>
+                    <li><a href="/terms-and-conditions.php">Terms and Condition</a></li>
                 </ul>
             </div>
             <div class="footer-col">
