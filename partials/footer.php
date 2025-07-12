@@ -102,11 +102,13 @@
             <div class="footer-col">
                 <h3>Quick Links</h3>
                 <ul class="footer-links">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Services</a></li>
-                    <li><a href="#">Pricing</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="/index.php">Home</a></li>
+                    <li><a href="/about-us.php">About Us</a></li>
+
+                    <li><a href="/contact-us">Contact</a></li>
+                    <li><a href="/printer-setup.php">Printer Setup</a></li>
+                    <li><a href="/privacy-policy.php">Privacy policy</a></li>
+                    <li><a href="/terms-and-condition">Terms and Condition</a></li>
                 </ul>
             </div>
             <div class="footer-col">
@@ -127,7 +129,8 @@
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; <?php echo date('Y'); ?> Thp-Printer. All Rights Reserved. | <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
+            <p>&copy; <?php echo date('Y'); ?> Thp-Printer. All Rights Reserved. | <a href="#">Privacy Policy</a> | <a
+                    href="#">Terms of Service</a></p>
         </div>
     </div>
 </footer>

@@ -161,11 +161,11 @@
 
             <div class="nav-center">
                 <ul class="nav-links">
-                    <li><a href="#" class="active">Home</a></li>
-                    <li><a href="#">Services</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Pricing</a></li>
-                    <li><a href="#">Blog</a></li>
+                    <li><a href="/index.php" class="active">Home</a></li>
+                    <!-- <li><a href="#">Services</a></li> -->
+                    <li><a href="/about-us.php">About Us</a></li>
+                    <!-- <li><a href="#">Pricing</a></li> -->
+                    <li><a href=".contact-us">Contact Us</a></li>
                 </ul>
             </div>
 
