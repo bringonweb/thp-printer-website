@@ -366,6 +366,7 @@
 </head>
 
 <body>
+    <?php include 'partials/navbar.php'; ?>
     <section class="support-section">
         <div class="content-box">
             <h2>Need Printer Help?</h2>
@@ -525,6 +526,7 @@
             </p>
         </div>
     </section>
+    <?php include 'partials/footer.php'; ?>
 
 </body>
 
