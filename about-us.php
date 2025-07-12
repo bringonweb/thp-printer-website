@@ -712,13 +712,13 @@
     </section> -->
 
     <!-- Call to Action Section -->
-    <section class="cta-section">
+    <!-- <section class="cta-section">
         <div class="container">
             <h2>Ready to Fix Your Printer?</h2>
             <p>Contact us today for fast, reliable printer repair services you can trust.</p>
             <a href="tel:+18665589610" class="btn animate-pulse">Call Now</a>
         </div>
-    </section>
+    </section> -->
     <?php include 'partials/footer.php'; ?>
 
 
