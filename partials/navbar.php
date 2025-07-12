@@ -165,7 +165,7 @@
                     <!-- <li><a href="#">Services</a></li> -->
                     <li><a href="/about-us.php">About Us</a></li>
                     <!-- <li><a href="#">Pricing</a></li> -->
-                    <li><a href=".contact-us">Contact Us</a></li>
+                    <li><a href="contact-us.php">Contact Us</a></li>
                 </ul>
             </div>
 
