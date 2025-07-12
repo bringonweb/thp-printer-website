@@ -785,8 +785,8 @@
                 <p>Fast, reliable, and affordable printer repair services for home and business. Our certified
                     technicians are ready to fix your printer issues today!</p>
                 <div class="hero-btns">
-                    <a href="#" class="btn animate-pulse">Get Instant Support</a>
-                    <a href="#" class="btn btn-outline">Our Services</a>
+                    <a href="tel:+18665589610" class="btn animate-pulse">Get Instant Support</a>
+                    <a href="tel:+18665589610" class="btn btn-outline">Our Services</a>
                 </div>
             </div>
         </div>
@@ -807,7 +807,7 @@
                     </div>
                     <h3>Printer Repair</h3>
                     <p>Expert diagnosis and repair for all printer makes and models.</p>
-                    <a href="#" class="btn btn-outline">Learn More</a>
+                    <a href="tel:+18665589610" class="btn btn-outline">Learn More</a>
                 </div>
                 <div class="service-card">
                     <div class="service-icon">
@@ -815,7 +815,7 @@
                     </div>
                     <h3>Maintenance</h3>
                     <p>Regular maintenance to prevent breakdowns and extend life.</p>
-                    <a href="#" class="btn btn-outline">Learn More</a>
+                    <a href="tel:+18665589610" class="btn btn-outline">Learn More</a>
                 </div>
                 <div class="service-card">
                     <div class="service-icon">
@@ -823,7 +823,7 @@
                     </div>
                     <h3>Installation</h3>
                     <p>Professional installation and setup of new printers.</p>
-                    <a href="#" class="btn btn-outline">Learn More</a>
+                    <a href="tel:+18665589610" class="btn btn-outline">Learn More</a>
                 </div>
                 <div class="service-card">
                     <div class="service-icon">
@@ -831,7 +831,7 @@
                     </div>
                     <h3>Remote Support</h3>
                     <p>Quick assistance for software and connectivity issues.</p>
-                    <a href="#" class="btn btn-outline">Learn More</a>
+                    <a href="tel:+18665589610" class="btn btn-outline">Learn More</a>
                 </div>
             </div>
         </div>

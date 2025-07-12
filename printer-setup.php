@@ -5,24 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Printer Setup & Support | 24/7 Expert Help</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="policys-style.css">
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            font-family: 'Segoe UI', sans-serif;
-            background-color: #f0f4f8;
-        }
-
-        section {
-            padding-left: 5%;
-            padding-right: 5%;
-        }
-
+        /* Printer Setup specific styles */
         .support-section {
             display: flex;
             align-items: center;
@@ -33,6 +20,7 @@
             background-position: center;
             position: relative;
             min-height: 500px;
+            margin-top: 80px;
         }
 
         .support-section::before {
@@ -50,14 +38,19 @@
             border-radius: 15px;
             max-width: 580px;
             width: 100%;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+            box-shadow: var(--box-shadow);
             margin-left: 0;
             margin-right: auto;
         }
 
+        .content-box:hover {
+            box-shadow: var(--box-shadow-hover);
+            transform: translateY(-5px);
+        }
+
         .content-box h2 {
             font-size: 26px;
-            color: #000;
+            color: var(--dark-color);
             font-weight: bold;
             margin-bottom: 10px;
         }
@@ -66,29 +59,31 @@
             font-size: 20px;
             font-weight: bold;
             margin-bottom: 15px;
-            color: #111;
+            color: var(--dark-color);
         }
 
         .content-box p {
             font-size: 16px;
             line-height: 1.5;
-            color: #333;
+            color: #666;
             margin-bottom: 20px;
         }
 
         .support-btn {
             display: inline-block;
-            background-color: #007BFF;
-            color: #fff;
+            background-color: var(--primary-color);
+            color: white;
             padding: 12px 20px;
             text-decoration: none;
             border-radius: 6px;
             font-weight: 600;
-            transition: background 0.3s ease;
+            transition: var(--transition);
         }
 
         .support-btn:hover {
-            background-color: #0056b3;
+            background-color: var(--secondary-color);
+            transform: translateY(-3px);
+            box-shadow: var(--box-shadow-hover);
         }
 
         @media (max-width: 1024px) {
